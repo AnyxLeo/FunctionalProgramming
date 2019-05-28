@@ -1,0 +1,26 @@
+{
+  "name": "functional-programming-practice",
+  "version": "1.0.0",
+  "description": "Functional Programming Practice",
+  "dependencies": {
+    "@mostly-adequate/support": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyxLeo/FunctionalProgramming.git"
+  },
+  "keywords": [
+    "gitbook",
+    "javascript",
+    "guide",
+    "functional programming"
+  ],
+  "author": "Mostly Adequate Core Team",
+  "license": "CC BY-SA",
+  "bugs": {
+    "url": "https://github.com/AnyxLeo/FunctionalProgramming/issues"
+  },
+  "homepage": "https://github.com/AnyxLeo/FunctionalProgramming"
+}
